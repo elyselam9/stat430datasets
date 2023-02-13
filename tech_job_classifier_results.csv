@@ -1,0 +1,72 @@
+﻿age,education_level,actual_job_outcome,predicted_job_outcome
+under 40,graduate degree,1,1
+40 and above,graduate degree,0,0
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+40 and above,less than graduate degree,1,0
+under 40,graduate degree,1,1
+40 and above,less than graduate degree,0,0
+40 and above,less than graduate degree,1,1
+40 and above,graduate degree,1,1
+under 40,less than graduate degree,1,1
+40 and above,graduate degree,0,0
+under 40,graduate degree,0,0
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+40 and above,graduate degree,0,0
+40 and above,graduate degree,0,0
+under 40,graduate degree,1,1
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,0,0
+40 and above,graduate degree,1,1
+under 40,less than graduate degree,0,0
+under 40,graduate degree,0,0
+under 40,graduate degree,1,1
+40 and above,graduate degree,1,1
+under 40,graduate degree,0,1
+under 40,less than graduate degree,1,1
+under 40,graduate degree,1,1
+40 and above,graduate degree,0,0
+40 and above,less than graduate degree,0,0
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,0,1
+under 40,graduate degree,1,1
+40 and above,graduate degree,1,0
+40 and above,less than graduate degree,1,0
+40 and above,graduate degree,1,0
+under 40,graduate degree,0,1
+40 and above,less than graduate degree,0,0
+40 and above,graduate degree,1,0
+under 40,graduate degree,1,1
+40 and above,graduate degree,1,1
+40 and above,graduate degree,1,1
+under 40,less than graduate degree,1,1
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,0,1
+under 40,graduate degree,1,1
+under 40,graduate degree,1,1
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,1,1
+40 and above,graduate degree,1,0
+40 and above,less than graduate degree,0,0
+40 and above,less than graduate degree,0,0
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,1,1
+40 and above,less than graduate degree,0,0
+40 and above,graduate degree,0,0
+under 40,less than graduate degree,1,1
+40 and above,less than graduate degree,1,1
+40 and above,less than graduate degree,1,1
+40 and above,less than graduate degree,0,0
+40 and above,graduate degree,1,1
+under 40,less than graduate degree,0,0
+40 and above,less than graduate degree,0,0
+40 and above,graduate degree,0,0
+40 and above,less than graduate degree,0,0
+under 40,less than graduate degree,1,1
+40 and above,graduate degree,1,1
+under 40,graduate degree,1,1
